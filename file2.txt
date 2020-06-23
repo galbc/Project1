@@ -1,4 +1,3 @@
-My name is Nasim.
-I am a girl.
+I am a student.
 I study electrical and computer engineering.
-I have biomedical engineering degrees.
+I love programing.
